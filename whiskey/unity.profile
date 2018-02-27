@@ -480,8 +480,8 @@ s0_toggle_window_maximized_button = Disabled
 s0_toggle_window_maximized_horizontally_key = Disabled
 s0_toggle_window_maximized_vertically_key = Disabled
 s0_toggle_window_shaded_key = <Control><Alt>s
-s0_hsize = 4
-s0_vsize = 4
+s0_hsize = 2
+s0_vsize = 2
 
 [wall]
 s0_show_switcher = true
